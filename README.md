@@ -17,9 +17,9 @@
 
 Данные геологоразведки трёх регионов находятся в файлах:
 
-- `/datasets/geo_data_0.csv`. [Скачать датасет](https://code.s3.yandex.net/datasets/geo_data_0.csv)
-- `/datasets/geo_data_1.csv`. [Скачать датасет](https://code.s3.yandex.net/datasets/geo_data_1.csv)
-- `/datasets/geo_data_2.csv`. [Скачать датасет](https://code.s3.yandex.net/datasets/geo_data_2.csv)
+- `/datasets/geo_data_0.csv`.
+- `/datasets/geo_data_1.csv`.
+- `/datasets/geo_data_2.csv`.
     
 - _id_ — уникальный идентификатор скважины;
 - _f0, f1, f2_ — три признака точек (неважно, что они означают, но сами признаки значимы);
